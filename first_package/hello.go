@@ -3,7 +3,7 @@ package first_package
 
 import "fmt"
 
-func say_hello() {
+func Say_hello() {
 
 	fmt.Println("Hello there, general Kenobi")
 }
