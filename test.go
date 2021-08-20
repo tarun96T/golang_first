@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"/first_package"
+)
 
 func main() {
-	fmt.Println("test was good")
+	first_package.Say_hello()
+	//fmt.Println("test was good")
 }
