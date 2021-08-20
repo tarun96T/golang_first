@@ -3,7 +3,7 @@ package first_package
 
 import "fmt"
 
-Morning string = "good morning"
+//Morning string = "good morning"
 
 func Say_hello() {
 
